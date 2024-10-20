@@ -71,7 +71,6 @@
         * [Source control for machine learning projects](https://learn.microsoft.com/en-us/training/modules/source-control-for-machine-learning-projects/)
         * [Automate machine learning workflows](https://learn.microsoft.com/en-us/training/modules/automate-machine-learning-workflows/)
         * [Continuous deployment for machine learning](https://learn.microsoft.com/en-us/training/modules/continuous-deployment-for-machine-learning/)
-
 * [Explore Azure DevOps with GitHub to streamline your development process](https://learn.microsoft.com/en-us/training/paths/explore-azure-devops-with-github/)
     * Advanced Learning Path with 4 Modules
     * Strict DevOps, not MLOps
@@ -81,3 +80,23 @@
         * [Learn continuous integration with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/)
         * [Explore Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/explore-azure-pipelines/)
         * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
+* [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
+    * Intermediate Learning Path with 5 Modules
+    * Strict DevOps, not MLOps
+    * Part of a series
+    * Modules:
+        * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
+        * [Implement a code workflow in your build pipeline by using Git and GitHub](https://learn.microsoft.com/en-us/training/modules/implement-code-workflow/)
+        * [Run quality tests in your build pipeline by using Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/)
+        * [Manage build dependencies with Azure Artifacts](https://learn.microsoft.com/en-us/training/modules/manage-build-dependencies/)
+        * [Host your own build agent in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/host-build-agent/)
+
+* [DevOps foundations: The core principles and practices](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/)
+    * Beginner Learning Path with 5 Modules
+    * Strict DevOps, not MLOps
+    * Modules:
+        * [Discover DevOps](https://learn.microsoft.com/en-us/training/modules/discover-devops/)
+        * [Plan with DevOps](https://learn.microsoft.com/en-us/training/modules/plan-with-devops/)
+        * [Develop with DevOps](https://learn.microsoft.com/en-us/training/modules/develop-with-devops/)
+        * [Deliver with DevOps](https://learn.microsoft.com/en-us/training/modules/deliver-with-devops/)
+        * [Operate with DevOps](https://learn.microsoft.com/en-us/training/modules/operate-with-devops/)
