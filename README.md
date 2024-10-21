@@ -116,3 +116,35 @@
         * [Learn continuous integration with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/)
         * [Explore Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/explore-azure-pipelines/)
         * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
+
+
+# Other Resources
+
+## Udemy
+
+* [Azure Machine Learning & MLOps : Beginner to Advance](https://www.udemy.com/course/azure-machine-learning-mlops-mg/)
+    * The most compressive course covering MLOps and machine learning on Azure | Zero to Hero
+    * 69.99 Euros
+    * 19.5 hours videos
+    * What you will learn:
+        * How to use Azure Machine Learning from Development to Production
+        * How to Use Azure DevOps for Continuous Integration, continuous deployment on Machine Learning
+        * How to automate End 2 End machine Learning Solution on Azure
+        * How to Deploy Machine learning Models on Azure (Azure Container Instances, Azure Kubernetese Services, managed endpoints)
+        * Run an end-to-end CI/CD MLOps pipeline using Azure DevOps & Azure Machine learning
+        * Bests practices and highly demanded capabilities of machine learning on Azure Cloud
+* [Azure DevOps Fundamentals for Beginners](https://www.udemy.com/course/azure-devops-for-beginners/)
+    * 3.5 hours videos
+    * 59.99 Euros
+    * Beginner
+    * Intro to DevOps on Azure
+    * Learn How to Plan, Manage, and Deploy Your Very First Azure DevOps Application Through Hands-On Demos and Use Cases!
+    * What you will learn:
+        * Create an Azure DevOps organization
+        * Align Azure DevOps work items using Agile, Scrum, or Basic work processes
+        * Integrate an Azure DevOps code repository with GitHub
+        * Fork and clone code using multiple tools
+        * Understand the basic vocabulary of DevOps: what it is and why it matters
+        * CI/CD: Understand how Pipelines facilitate Continuous Implementation and Continuous Deployment
+        * Commit code changes and track Pull Requests
+        * Push a code Repo from the command line of an Integrated Development Environment (IDE)
