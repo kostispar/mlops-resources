@@ -4,6 +4,8 @@
 - [Azure API Docs](#azure-api-docs)
 - [Video Tutorials](#video-tutorials)
 - [Azure Training](#azure-training)
+    - [MLOps](#mlops)
+    - [DevOps](#devops)
 
 # Github Repositories
 
@@ -53,6 +55,16 @@
 
 # Azure Training
 
+## MLOps
+
+* [Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/en-us/training/paths/introduction-machine-learn-operations/)
+    * Beginner Learning Path with 4 Modules
+    * Focus on DevOps principles that help in scaling a machine learning project from experimentation to production
+    * Modules:
+        * [Introduction to DevOps principles for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-development-operations-principles-for-machine-learn/)
+        * [Source control for machine learning projects](https://learn.microsoft.com/en-us/training/modules/source-control-for-machine-learning-projects/)
+        * [Automate machine learning workflows](https://learn.microsoft.com/en-us/training/modules/automate-machine-learning-workflows/)
+        * [Continuous deployment for machine learning](https://learn.microsoft.com/en-us/training/modules/continuous-deployment-for-machine-learning/)
 * [End-to-end machine learning operations (MLOps) with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/build-first-machine-operations-workflow/)
     * Intermediate Learning Path with 6 Modules
     * Focus on source control, automation, and CI/CD to build an end-to-end MLOps solution.
@@ -63,33 +75,8 @@
         * [Work with linting and unit testing in GitHub Actions](https://learn.microsoft.com/en-us/training/modules/work-linting-unit-test-github-actions/)
         * [Work with environments in GitHub Actions](https://learn.microsoft.com/en-us/training/modules/work-environments-github-actions/)
         * [Deploy a model with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/deploy-model-github-actions/)     
-* [Introduction to machine learning operations (MLOps)](https://learn.microsoft.com/en-us/training/paths/introduction-machine-learn-operations/)
-    * Beginner Learning Path with 4 Modules
-    * Focus on DevOps principles that help in scaling a machine learning project from experimentation to production
-    * Modules:
-        * [Introduction to DevOps principles for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-development-operations-principles-for-machine-learn/)
-        * [Source control for machine learning projects](https://learn.microsoft.com/en-us/training/modules/source-control-for-machine-learning-projects/)
-        * [Automate machine learning workflows](https://learn.microsoft.com/en-us/training/modules/automate-machine-learning-workflows/)
-        * [Continuous deployment for machine learning](https://learn.microsoft.com/en-us/training/modules/continuous-deployment-for-machine-learning/)
-* [Explore Azure DevOps with GitHub to streamline your development process](https://learn.microsoft.com/en-us/training/paths/explore-azure-devops-with-github/)
-    * Advanced Learning Path with 4 Modules
-    * Strict DevOps, not MLOps
-    * Focus GitHub Actions, Azure DevOps, and Azure Pipelines to build, test, and deploy applications.
-    * Modules:
-        * [Introduction to GitHub Actions](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/)
-        * [Learn continuous integration with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/)
-        * [Explore Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/explore-azure-pipelines/)
-        * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
-* [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
-    * Intermediate Learning Path with 5 Modules
-    * Strict DevOps, not MLOps
-    * Part of a series
-    * Modules:
-        * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
-        * [Implement a code workflow in your build pipeline by using Git and GitHub](https://learn.microsoft.com/en-us/training/modules/implement-code-workflow/)
-        * [Run quality tests in your build pipeline by using Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/)
-        * [Manage build dependencies with Azure Artifacts](https://learn.microsoft.com/en-us/training/modules/manage-build-dependencies/)
-        * [Host your own build agent in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/host-build-agent/)
+
+## DevOps
 
 * [DevOps foundations: The core principles and practices](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/)
     * Beginner Learning Path with 5 Modules
@@ -100,3 +87,32 @@
         * [Develop with DevOps](https://learn.microsoft.com/en-us/training/modules/develop-with-devops/)
         * [Deliver with DevOps](https://learn.microsoft.com/en-us/training/modules/deliver-with-devops/)
         * [Operate with DevOps](https://learn.microsoft.com/en-us/training/modules/operate-with-devops/)
+* [Automate your workflow with GitHub Actions](https://learn.microsoft.com/en-us/training/paths/automate-workflow-github-actions/)
+    * Intermediate Learning Path with 6 Modules
+    * Strict DevOps, not MLOps
+    * Modules:
+        * [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
+        * [Automate development tasks by using GitHub Actions](https://learn.microsoft.com/en-us/training/modules/github-actions-automate-tasks/)
+        * [Build continuous integration (CI) workflows by using GitHub Actions](https://learn.microsoft.com/en-us/training/modules/github-actions-ci/)
+        * [Build and deploy applications to Azure by using GitHub Actions](https://learn.microsoft.com/en-us/training/modules/github-actions-cd/)
+        * [Automate GitHub by using GitHub Script](https://learn.microsoft.com/en-us/training/modules/automate-github-using-github-script/)
+        * [Leverage GitHub Actions to publish to GitHub Packages](https://learn.microsoft.com/en-us/training/modules/github-actions-packages/)
+* [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
+    * Intermediate Learning Path with 5 Modules
+    * Strict DevOps, not MLOps
+    * Part of a series
+    * Modules:
+        * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
+        * [Implement a code workflow in your build pipeline by using Git and GitHub](https://learn.microsoft.com/en-us/training/modules/implement-code-workflow/)
+        * [Run quality tests in your build pipeline by using Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/)
+        * [Manage build dependencies with Azure Artifacts](https://learn.microsoft.com/en-us/training/modules/manage-build-dependencies/)
+        * [Host your own build agent in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/host-build-agent/)
+* [Explore Azure DevOps with GitHub to streamline your development process](https://learn.microsoft.com/en-us/training/paths/explore-azure-devops-with-github/)
+    * Advanced Learning Path with 4 Modules
+    * Strict DevOps, not MLOps
+    * Focus GitHub Actions, Azure DevOps, and Azure Pipelines to build, test, and deploy applications.
+    * Modules:
+        * [Introduction to GitHub Actions](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/)
+        * [Learn continuous integration with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/)
+        * [Explore Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/explore-azure-pipelines/)
+        * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
