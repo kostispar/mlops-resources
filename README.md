@@ -6,6 +6,8 @@
 - [Azure Training](#azure-training)
     - [MLOps](#mlops)
     - [DevOps](#devops)
+- [Other Resources](#other-resources)
+    - [Udemy Courses](#udemy-courses)
 
 # Github Repositories
 
@@ -120,7 +122,7 @@
 
 # Other Resources
 
-## Udemy
+## Udemy Courses
 
 * [Azure Machine Learning & MLOps : Beginner to Advance](https://www.udemy.com/course/azure-machine-learning-mlops-mg/)
     * The most compressive course covering MLOps and machine learning on Azure | Zero to Hero
