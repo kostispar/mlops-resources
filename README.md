@@ -8,10 +8,15 @@
     - [DevOps](#devops)
 - [Other Resources](#other-resources)
     - [Udemy Courses](#udemy-courses)
+    - [Articles](#articles)
 
 # Github Repositories
 
 * [Azure ML Ops Github](https://github.com/azure/mlops-v2)
+* [DevOps For Machine Learning | MLOps](https://github.com/MG-Microsoft/MLOps_Workshop)
+    * Part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
+    * Hands-on MLOps workshop using Azure Machine Learning and Azure DevOps
+    * Also explained in the Youtube Playlist [Azure MLOps - DevOps for Machine Learning](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f) by MG.
 
 # Azure Learning
 * [Azure ML Ops Guide](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2)
@@ -24,9 +29,18 @@
 
 # Video Tutorials
 
-* [Azure MLOps -DevOps for Machine Learning - Youtube Playlist by MG](https://www.youtube.com/watch?v=-QxwB7PoSdA&list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f&pp=iAQB)
+* [Azure MLOps - DevOps for Machine Learning - Youtube Playlist by MG](https://www.youtube.com/watch?v=-QxwB7PoSdA&list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f&pp=iAQB)
     * 11 Youtube videos
     * Published in 2021
+    * Its a part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
+    * The repo for this playlist is [DevOps For Machine Learning | MLOps](https://github.com/MG-Microsoft/MLOps_Workshop)
+    
+* [Azure MLOps with GitHub Actions & Azure Machine Learning - Youtube Video by MG](https://www.youtube.com/watch?v=ekia27KMJGc)
+    * Published in 2022
+    * Its a part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
+    * Also related to [Using GitHub Actions & Azure Machine Learning for MLOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/using-github-actions-amp-azure-machine-learning-for-mlops/ba-p/1419027)
+    * The repo for this video is [ML Ops with GitHub Actions and AML](https://github.com/MG-Microsoft/mlops-enterprise-template)
+
 * [Deploy MLOps on Azure in Less Than an Hour (MLOps V2 Accelerator) - Youtube Video by MG](https://www.youtube.com/watch?v=5yPDkWCMmtk)
     * Hands-On video
     * Focus also on Azure DevOps
@@ -135,6 +149,12 @@
         * How to Deploy Machine learning Models on Azure (Azure Container Instances, Azure Kubernetese Services, managed endpoints)
         * Run an end-to-end CI/CD MLOps pipeline using Azure DevOps & Azure Machine learning
         * Bests practices and highly demanded capabilities of machine learning on Azure Cloud
+    * Some related resources:
+        * Github Repo: [DevOps For Machine Learning | MLOps](https://github.com/MG-Microsoft/MLOps_Workshop)
+        * Article: [Using GitHub Actions & Azure Machine Learning for MLOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/using-github-actions-amp-azure-machine-learning-for-mlops/ba-p/1419027)
+        * Github Repo: [ML Ops with GitHub Actions and AML](https://github.com/MG-Microsoft/mlops-enterprise-template)
+        * Youtube Playlist of first 10 parts: [Azure MLOps - DevOps for Machine Learning - Youtube Playlist by MG](https://www.youtube.com/watch?v=-QxwB7PoSdA&list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f&pp=iAQB)
+        * Youtube Playlist of the 11th part: [Azure MLOps with GitHub Actions & Azure Machine Learning - Youtube Video by MG](https://www.youtube.com/watch?v=ekia27KMJGc)
 * [Azure DevOps Fundamentals for Beginners](https://www.udemy.com/course/azure-devops-for-beginners/)
     * 3.5 hours videos
     * 59.99 Euros
@@ -150,3 +170,9 @@
         * CI/CD: Understand how Pipelines facilitate Continuous Implementation and Continuous Deployment
         * Commit code changes and track Pull Requests
         * Push a code Repo from the command line of an Integrated Development Environment (IDE)
+
+## Articles
+
+* [Using GitHub Actions & Azure Machine Learning for MLOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/using-github-actions-amp-azure-machine-learning-for-mlops/ba-p/1419027)
+    * Article
+    * https://github.com/MG-Microsoft/mlops-enterprise-template
