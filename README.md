@@ -17,7 +17,9 @@
     * Part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
     * Hands-on MLOps workshop using Azure Machine Learning and Azure DevOps
     * Also explained in the Youtube Playlist [Azure MLOps - DevOps for Machine Learning](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f) by MG.
-
+* [Azure MLOps (v2) Solution Accelerator](https://github.com/Azure/mlops-v2)
+    * Part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
+    * Explained in Youtube Video: [Deploy MLOps on Azure in Less Than an Hour (MLOps V2 Accelerator)](https://www.youtube.com/watch?v=5yPDkWCMmtk)
 # Azure Learning
 * [Azure ML Ops Guide](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2)
 * [Machine learning operations](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops)
@@ -34,13 +36,11 @@
     * Published in 2021
     * Its a part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
     * The repo for this playlist is [DevOps For Machine Learning | MLOps](https://github.com/MG-Microsoft/MLOps_Workshop)
-    
 * [Azure MLOps with GitHub Actions & Azure Machine Learning - Youtube Video by MG](https://www.youtube.com/watch?v=ekia27KMJGc)
     * Published in 2022
     * Its a part of the Udemy Course [Azure Machine Learning & MLOps : Beginner to Advance](#udemy-courses)
     * Also related to [Using GitHub Actions & Azure Machine Learning for MLOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/using-github-actions-amp-azure-machine-learning-for-mlops/ba-p/1419027)
     * The repo for this video is [ML Ops with GitHub Actions and AML](https://github.com/MG-Microsoft/mlops-enterprise-template)
-
 * [Deploy MLOps on Azure in Less Than an Hour (MLOps V2 Accelerator) - Youtube Video by MG](https://www.youtube.com/watch?v=5yPDkWCMmtk)
     * Hands-On video
     * Focus also on Azure DevOps
@@ -155,6 +155,8 @@
         * Github Repo: [ML Ops with GitHub Actions and AML](https://github.com/MG-Microsoft/mlops-enterprise-template)
         * Youtube Playlist of first 10 parts: [Azure MLOps - DevOps for Machine Learning - Youtube Playlist by MG](https://www.youtube.com/watch?v=-QxwB7PoSdA&list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f&pp=iAQB)
         * Youtube Playlist of the 11th part: [Azure MLOps with GitHub Actions & Azure Machine Learning - Youtube Video by MG](https://www.youtube.com/watch?v=ekia27KMJGc)
+        * Youtube Video of the second chapter: [Deploy MLOps on Azure in Less Than an Hour (MLOps V2 Accelerator)](https://www.youtube.com/watch?v=5yPDkWCMmtk)
+        * Github Repo: [Azure MLOps (v2) Solution Accelerator](https://github.com/Azure/mlops-v2)
 * [Azure DevOps Fundamentals for Beginners](https://www.udemy.com/course/azure-devops-for-beginners/)
     * 3.5 hours videos
     * 59.99 Euros
